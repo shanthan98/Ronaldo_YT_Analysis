@@ -12,7 +12,6 @@ Although I’m not a football fan, I admire Cristiano Ronaldo for his discipline
 - [Project Insights](#Project-Insights)
 - [Limitations](#Limitations)
 - [Conclusion](#Conclusions)
-- ![Youtube API Documentation](https://developers.google.com/youtube/v3/docs)
 
 This project analyzes various metrics from Ronaldo's YouTube channel and provides insights into video performance, audience interaction, and content trends. This repository covers a wide range of statistical insights, from video length analysis to upload patterns.
 
@@ -99,6 +98,7 @@ The following Python libraries were used to perform the analysis:
 ## Limitations
 - **API Limitations**: The YouTube API restricts data to 10,000 units per request, affecting the scope of some insights.
 - **Data Availability**: Some key metrics such as impressions and click-through rates (CTR) are not accessible, which limits certain aspects of the analysis.
+- 👨‍💻 Youtube API Documentation [Click Here](https://developers.google.com/youtube/v3/docs)
 
 ### Conclusion
 This project provides a deep dive into Cristiano Ronaldo's YouTube channel, offering insights into video performance, engagement trends, and content optimization strategies. Although there are limitations due to the YouTube API, the analysis reveals valuable information about how to maximize video performance and audience interaction.
