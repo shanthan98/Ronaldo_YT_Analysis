@@ -12,7 +12,7 @@ Although I’m not a football fan, I admire Cristiano Ronaldo for his discipline
 - [Project Insights](#Project-Insights)
 - [Limitations](#Limitations)
 - [Conclusion](#Conclusions)
-- ![Youtube API Documentation]('https://developers.google.com/youtube/v3/docs')
+- ![Youtube API Documentation](https://developers.google.com/youtube/v3/docs)
 
 This project analyzes various metrics from Ronaldo's YouTube channel and provides insights into video performance, audience interaction, and content trends. This repository covers a wide range of statistical insights, from video length analysis to upload patterns.
 
